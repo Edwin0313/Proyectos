@@ -1,0 +1,6 @@
+export const POKEMON = {
+  POKEMONS: "POKEMONS",
+  POKEMON: "POKEMON",
+  LOADING: "LOADING",
+  ERRORS: "ERRORS",
+};
